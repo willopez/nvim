@@ -38,7 +38,7 @@ function! s:vscodeCommentary(...) abort
         let [line1, line2] = [line("'["), line("']")]
     endif
 
-    call VSCodeCallRange("editor.action.commentLine", line1, line2, 0)
+    call VSCodeNotify("editor.action.commentLine", line1, line2, 0)
 endfunction
 
 function! s:openVSCodeCommandsInVisualMode()
