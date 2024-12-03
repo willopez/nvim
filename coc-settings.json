@@ -117,7 +117,10 @@
   "bookmark.sign": "",
 
   //coc-emoji
-  "coc.source.emoji.filetypes": ["markdown"]
+  "coc.source.emoji.filetypes": [
+    "markdown"
+  ],
+  "snippets.ultisnips.pythonPrompt": false
 
   // lua
   //"lua.useSumnekoLs": true,

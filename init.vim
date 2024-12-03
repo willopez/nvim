@@ -45,7 +45,7 @@ else
   source $HOME/.config/nvim/plug-config/git-messenger.vim
   source $HOME/.config/nvim/plug-config/closetags.vim
   source $HOME/.config/nvim/plug-config/floaterm.vim
-  source $HOME/.config/nvim/plug-config/barbar.vim
+"  source $HOME/.config/nvim/plug-config/barbar.vim
   source $HOME/.config/nvim/plug-config/far.vim
   source $HOME/.config/nvim/plug-config/tagalong.vim
   source $HOME/.config/nvim/plug-config/bracey.vim
